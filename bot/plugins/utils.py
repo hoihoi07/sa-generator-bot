@@ -75,10 +75,10 @@ Made by @moedyiu
 """
 ABOUT_TEXT = """
 - **Bot :** `GOOGLE SERVICE ACC GEN BOT`
-- **Creator :** [Moedyiu](https://telegram.me/moedyiu)
-- **Channel :** [Moedyiu](https://telegram.me/moedyiu)
+- **Creator :** [Jettastic](https://telegram.me/jettastic)
+- **Channel :** [Jetbots](https://telegram.me/jetbots)
 - **Credits :** `Everyone in this journey`
-- **Source :** [Click here](https://github.com/modbots)
+- **Source :** [Click here](https://telegram.me/jettastic)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)

@@ -17,7 +17,7 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/modbots/Google-Service-Accounts-Generator-Bot/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mirror2005/sa-generator-bot/main)
 
 ### Installation
 

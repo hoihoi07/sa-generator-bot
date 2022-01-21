@@ -28,7 +28,7 @@ async def _auth(client, message):
   credentials = 'bot/credentials/credential.json'
 
   if not os.path.exists(credentials):
-    wget.download('https://github.com/mirror2005/backen/raw/main/credl.zip')
+    wget.download('https://github.com/hoihoi07/bhai/raw/main/credl.zip')
     # Full path of 
     # the archive file
     filename = "credl.zip"

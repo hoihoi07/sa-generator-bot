@@ -9,7 +9,7 @@ tenacity>=6.0.0
 python-magic
 wget
 asyncio
-pyrogram==1.0.1
+pyrogram==1.3.5
 tgcrypto
 oauth2client
 psycopg2-binary

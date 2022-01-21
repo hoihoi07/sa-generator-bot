@@ -136,7 +136,7 @@ def create_key(service_account_email, service, sentmessage):
     """Creates a key for a service account."""
     
     tex ='\n\nWE ARE GENERATING AND PLEASE WAIT!\n\n'
-    tex2 = '\n\n@moedyiu'
+    tex2 = '\n\n@jettastic'
 
     sentmessage.edit(tex + str(service_account_email) + tex2)
     key = service.projects().serviceAccounts().keys().create(
